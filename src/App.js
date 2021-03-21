@@ -11,7 +11,8 @@ const App = () => {
     color: "black",
     fillOpacity: 1,
   };
-
+  
+  // data to pass in the form of Geo Json
   const statesData = [
     {
     "state_name" : "Andhra Pradesh",
